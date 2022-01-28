@@ -1,0 +1,5 @@
+CLOUS RESOLUSI 
+- menemukan permasalahan 
+- membuat infrastruktur 
+- membuat laporan 
+- membuat demo aplikasi 
