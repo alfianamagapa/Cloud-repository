@@ -2,4 +2,6 @@ CLOUS RESOLUSI
 - menemukan permasalahan 
 - membuat infrastruktur 
 - membuat laporan 
-- membuat demo aplikasi 
+- membuat demo aplikasi
+- membuat video peresentasi
+- mengirimkan laporan 
