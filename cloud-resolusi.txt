@@ -4,4 +4,4 @@ CLOUS RESOLUSI
 - membuat laporan 
 - membuat demo aplikasi
 - membuat video peresentasi
-- mengirimkan laporan 
+- mengirimkan link laporan 
